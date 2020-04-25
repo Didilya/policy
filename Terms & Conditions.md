@@ -17,9 +17,9 @@
                   to translate the app into other languages, or make derivative
                   versions. The app itself, and all the trade marks, copyright,
                   database rights and other intellectual property rights related
-                  to it, still belong to Dilyara Diyarova.
+                  to it, still belong to Dilyara Diyarova and Barak Toledano.
                 </p> <p>
-                  Dilyara Diyarova is committed to ensuring that the app is
+                  Dilyara Diyarova and Barak Toledano is committed to ensuring that the app is
                   as useful and efficient as possible. For that reason, we
                   reserve the right to make changes to the app or to charge for
                   its services, at any time and for any reason. We will never
@@ -42,12 +42,12 @@
                   </p> <p>
                     Link to Terms and Conditions of third party service
                     providers used by the app
-                  </p> <ul><li><a href="https://policies.google.com/terms" target="_blank">Google Play Services</a></li><li><a href="https://developers.google.com/admob/terms" target="_blank">AdMob</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> <p>
+                  </p> <ul><li><a href="https://policies.google.com/terms" target="_blank">Google Play Services</a></li><li><a href="https://developers.google.com/admob/terms" target="_blank">AdMob</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><li><a href="https://unity3d.com/legal/terms-of-service" target="_blank">Unity</a></li><!----><!----><!----><!----></ul></div> <p>
                   You should be aware that there are certain things that
-                  Dilyara Diyarova will not take responsibility for. Certain
+                  Dilyara Diyarova and Barak Toledano will not take responsibility for. Certain
                   functions of the app will require the app to have an active
                   internet connection. The connection can be Wi-Fi, or provided
-                  by your mobile network provider, but Dilyara Diyarova
+                  by your mobile network provider, but Dilyara Diyarova and Barak Toledano
                   cannot take responsibility for the app not working at full
                   functionality if you don’t have access to Wi-Fi, and you don’t
                   have any of your data allowance left.
@@ -65,18 +65,18 @@
                   using the app, please be aware that we assume that you have
                   received permission from the bill payer for using the app.
                 </p> <p>
-                  Along the same lines, Dilyara Diyarova cannot always take
+                  Along the same lines, Dilyara Diyarova and Barak Toledano cannot always take
                   responsibility for the way you use the app i.e. You need to
                   make sure that your device stays charged – if it runs out of
                   battery and you can’t turn it on to avail the Service,
-                  Dilyara Diyarova cannot accept responsibility.
+                  Dilyara Diyarova and Barak Toledano cannot accept responsibility.
                 </p> <p>
-                  With respect to Dilyara Diyarova’s responsibility for your
+                  With respect to Dilyara Diyarova and Barak Toledano’s responsibility for your
                   use of the app, when you’re using the app, it’s important to
                   bear in mind that although we endeavour to ensure that it is
                   updated and correct at all times, we do rely on third parties
                   to provide information to us so that we can make it available
-                  to you. Dilyara Diyarova accepts no liability for any
+                  to you. Dilyara Diyarova and Barak Toledano accepts no liability for any
                   loss, direct or indirect, you experience as a result of
                   relying wholly on this functionality of the app.
                 </p> <p>
@@ -85,7 +85,7 @@
                   system(and for any additional systems we
                   decide to extend the availability of the app to) may change,
                   and you’ll need to download the updates if you want to keep
-                  using the app. Dilyara Diyarova does not promise that it
+                  using the app. Dilyara Diyarova and Barak Toledano does not promise that it
                   will always update the app so that it is relevant to you
                   and/or works with the Android version that you have
                   installed on your device. However, you promise to always
@@ -108,9 +108,8 @@
                   If you have any questions or suggestions about my
                   Terms and Conditions, do not hesitate to contact me
                   at didiyarova13@gmail.com.
-                </p> <p>
-                  This Terms and Conditions page was generated by
-                  <a href="https://app-privacy-policy-generator.firebaseapp.com/" target="_blank">App Privacy Policy Generator</a></p>
+                </p> 
     </body>
     </html>
+      
       

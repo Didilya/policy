@@ -8,9 +8,9 @@
     </head>
     <body>
     <strong>Privacy Policy</strong> <p>
-                  Dilyara Diyarova built the Viral Bird app as
+                  Dilyara Diyarova and Barak Toledano built the Viral Bird app as
                   a Free app. This SERVICE is provided by
-                  Dilyara Diyarova at no cost and is intended for use as
+                  Dilyara Diyarova and Barak Toledano at no cost and is intended for use as
                   is.
                 </p> <p>
                   This page is used to inform visitors regarding my
@@ -37,7 +37,7 @@
                   </p> <p>
                     Link to privacy policy of third party service providers used
                     by the app
-                  </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a></li><li><a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank">AdMob</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> <p><strong>Log Data</strong></p> <p>
+                  </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a></li><li><a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank">AdMob</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><li><a href="https://unity3d.com/legal/privacy-policy" target="_blank">Unity</a></li><!----><!----><!----><!----></ul></div> <p><strong>Log Data</strong></p> <p>
                   I want to inform you that whenever you
                   use my Service, in a case of an error in the app
                   I collect data and information (through third party
@@ -111,4 +111,5 @@
                   <a href="https://app-privacy-policy-generator.firebaseapp.com/" target="_blank">App Privacy Policy Generator</a></p>
     </body>
     </html>
+      
       
